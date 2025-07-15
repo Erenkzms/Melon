@@ -1,6 +1,6 @@
 # QBCore Server Scripts
 
-This repository contains multiple simple server-side Lua scripts developed for FiveM QBCore framework. Scripts included:
+This repository contains multiple simple side Lua scripts developed for FiveM QBCore framework. Scripts included:
 
 - `sv_depo` : Deposit related logic  
 - `sv_givecar` : Give vehicle to player  
