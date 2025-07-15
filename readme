@@ -1,0 +1,30 @@
+# QBCore Server Scripts
+
+This repository contains multiple simple server-side Lua scripts developed for FiveM QBCore framework. Scripts included:
+
+- `sv_depo` : Deposit related logic  
+- `sv_givecar` : Give vehicle to player  
+- `sv_giveped` : Spawn ped for player  
+- `sv_gps` : GPS and coordinate utilities  
+- `sv_lskit` : AFK kit giving system  
+- `sv_pubg` : PUBG zone or event logic  
+- `sv_server` : General server functions  
+- `sv_vehcontrol` : Vehicle control utilities
+
+All scripts are lightweight and easy to integrate. Tested on QBCore 1.2+.
+
+### 📌 Requirements
+- FiveM FXServer
+- QBCore framework
+
+### 📌 Installation
+1. Clone or download this repository into your server resource folder.
+2. Start or ensure scripts from your server.cfg.
+3. Configure each script if needed.
+
+### 🛠️ License
+MIT. Free to use and edit with credits.
+
+---
+
+💡 **Note:** These are basic server utilities, perfect for optimization, testing, or custom system extensions.
